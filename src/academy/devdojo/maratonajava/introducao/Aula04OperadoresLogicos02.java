@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.introducao;
 
-public class Aula04OperadoresLogicos {
+public class Aula04OperadoresLogicos02 {
     public static void main(String[] args) {
         // && (AND)  || (OR) !
         int age = 30;
