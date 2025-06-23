@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.introducao;
 
 import java.util.Scanner;
 
-public class Aula04Operadores {
+public class Aula04OperadoresAritmeticos01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
@@ -37,7 +37,5 @@ public class Aula04Operadores {
             System.out.println("Not this time");
 
         }
-
-
     }
 }
