@@ -10,9 +10,9 @@ public class ParOuImpar {
         number = input.nextInt();
         int result = number % 2;
         if (result == 0){
-            System.out.println(number + " Is even");
+            System.out.println(number + " is even");
         }else{
-            System.out.println(number + " Is odd");
+            System.out.println(number + " is odd");
         }
     }
 }
