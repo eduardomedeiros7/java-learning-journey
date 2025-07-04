@@ -20,6 +20,5 @@ public class StatusDoAluno {
             System.out.println("Failed");
         }
 
-
     }
 }
