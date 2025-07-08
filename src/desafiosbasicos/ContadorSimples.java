@@ -1,7 +1,5 @@
 package desafiosbasicos;
 
-
-
 public class ContadorSimples {
     public static void main(String[] args) {
 
