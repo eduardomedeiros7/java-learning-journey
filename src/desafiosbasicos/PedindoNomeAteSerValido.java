@@ -12,5 +12,6 @@ public class PedindoNomeAteSerValido {
             name = input.next();
         }
         System.out.println("name valid!");
+
     }
 }
