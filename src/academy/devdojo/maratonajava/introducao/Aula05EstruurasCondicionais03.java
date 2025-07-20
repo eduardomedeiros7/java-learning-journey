@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.introducao;
 import java.util.Scanner;
 
 
-public class EstruurasCondicionais03 {
+public class Aula05EstruurasCondicionais03 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int age;
@@ -17,7 +17,6 @@ public class EstruurasCondicionais03 {
         result = (age >= 18)? "of legal age" : "Minor";
 
         System.out.println(result);
-
 
 
 
