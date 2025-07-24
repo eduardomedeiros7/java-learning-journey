@@ -6,7 +6,7 @@ public class Aula06EstruturaDeRepeticao05 {
         for (int i = 1; i <= 10; i++){
             if (i % 2 == 0){
                 System.out.println("Skipping the even number: " + i);
-               // continue; // Pula para próxima iteração (ignora o resto do código para i par)
+               continue; // Pula para próxima iteração (ignora o resto do código para i par)
             }
             System.out.println("Odd number: " + i);
         }
